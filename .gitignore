@@ -1,0 +1,9 @@
+# Miscelleanous filesystem crud.
+*~
+*.pyc
+__pycache__
+\#*
+
+# Jekyll generated files.
+_site
+.jekyll-metadata
