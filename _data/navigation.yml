@@ -1,0 +1,15 @@
+sbar:
+  - title: About
+    url: "/index"
+  - title: Registration
+    url: "/registration"
+  - title: Submission
+    url: "/submission"
+  - title: Software
+    url: "/software"
+  - title: Results
+    url: "/results"
+  - title: FAQ
+    url: "/faq"
+  - title: Contact Us
+    url: "/contact"

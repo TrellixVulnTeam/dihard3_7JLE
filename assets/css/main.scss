@@ -1,0 +1,132 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+html {
+  font-size: 8px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 10px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 12px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 18px; // change to whatever
+  }
+}
+
+/*
+.page {
+    width: 100%;
+}
+*/
+
+
+/* Defaults. */
+$background-color: #ecf0f1;
+$text-color: #111;
+$global-font-family: poppins;
+$header-background-color: #d3dbe2;
+$header-text-color: #0277bd;
+$masthead-text-color: #ffffff;
+$masthead-background-color: #2c3e4f;
+$footer-background-color: #2c3e4f;
+$footer-text-color: #ffffff;
+
+
+/* Body */
+body{
+    ul li, ol li {
+	margin-top: 0.0em;
+	margin-bottom: 0.0em;
+    }
+}
+
+
+/* Headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: $text-color;
+    background: $header-background-color;
+}
+
+/* Tables */
+$table-header-background-color: #e6e6e6;
+$table-even-row-background-color: #d3dbe2;
+table, th, td{
+    width: 70%;
+}
+thead {
+    background: $table-even-row-background-color;
+    background-color: $table-even-row-background-color;
+}
+tbody tr:nth-child(odd) {
+    background: inherit;
+}
+tbody tr:nth-child(even) {
+    background: $table-even-row-background-color;
+}
+
+
+/* Masthead. */
+$masthead-text-color: #ffffff;
+$masthead-background-color: #2c3e4f;
+.masthead{
+    background: $masthead-background-color;
+    background-color: $masthead-background-color;
+    .masthead__inner-wrap{
+	color: $masthead-background-color;
+	background: $masthead-background-color;
+	.masthead__menu{
+	    color: $masthead-background-color;
+	    background: $masthead-background-color;
+	    .greedy-nav{
+		color: $masthead-background-color;
+		background: $masthead-background-color;
+		.site-title{
+		    color: $masthead-text-color;
+		    background: $masthead-background-color;
+		    border: $masthead-background-color;
+		}
+	    }
+	}
+    }
+}
+
+
+/* Page footer. */
+.page__footer,
+.page__footer-copyright,
+.page__footer-follow {
+    color: $footer-text-color;
+}
+
+
+/* Sidebar. */
+$sidebar-text-color: #0277bd;
+$sidebar-background-color: #ecf0f1;
+.sidebar{
+    color: $sidebar-text-color;
+    p, li {
+        font-size: $type-size-4;
+    }
+    .sidebar .author__name {
+        font-size: $type-size-5;
+    }
+    a {
+        font-size: $type-size-5;
+    }
+}
+
