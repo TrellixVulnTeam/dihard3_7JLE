@@ -7,7 +7,7 @@ classes: wide
 
 # Contact us
 
-For additional information, please [join our mailing list](https://groups.google.com/forum/#!forum/dihard) or email us at [dihardchallenge@gmail.com](mailto:dihardchallenge@gmail.com).
+For additional information, please [join our mailing list](https://groups.google.com/forum/#!forum/dihard/join) or email us at [dihardchallenge@gmail.com](mailto:dihardchallenge@gmail.com).
 
 
 # Organizing committee
