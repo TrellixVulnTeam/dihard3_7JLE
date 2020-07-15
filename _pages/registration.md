@@ -128,7 +128,7 @@ box to left of **"DIHARD3_Track2"**. When you are finished, click the
 # Terms and Conditions and LDC Data License Agreement (Step 5)
 
 In order to complete your registration and gain access to the data, you will
-need to accept the DIHARD III Terms and Conditions and sign and upload the
+need to accept the DIHARD III terms and conditions and sign and upload the
 LDC data license agreement. To complete these tasks, from the
 **"Registration Workflow"** panel, click **"Sign and upload license"**, which
 will take you to a listing of all available agreements and their current status
@@ -144,7 +144,7 @@ the left of **"I acknowledge that I have read and accepted..."**, then click
 The creator of each **SITE** must sign and upload the LDC data license
 agreement. Participants will be unable to download data until LDC has approved
 the signed LDC data license agreement. To do so, locate the entry named
-"LDC Data License Agreement for..." and click **"Show."** On the next screen,
+**"LDC Data License Agreement for..."** and click **"Show."** On the next screen,
 click on **"Download License Agreement"** to download a PDF copy. After you
 have reviewed the license agreement, sign it and upload the signed copy as a
 PDF by clicking on the **"Upload Signed License Agreement"** button. Someone

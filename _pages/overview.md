@@ -55,7 +55,6 @@ please see the
 | **evaluation server opens**        |  early September, 2020  |
 | **evaluation period ends**         |  December 7th, 2020     |
 | **abstract submission deadline**   |  December 21st, 2020    |
-| **registration deadline**          |  October 12th, 2020     |
 | **system descriptions due**        |  January 8th, 2021      |
 | **workshop**                       |  January 23rd, 2021     |
 
