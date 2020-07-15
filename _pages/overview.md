@@ -34,37 +34,30 @@ any baselines are provided free of charge.
 # <a name="plan"></a>Evaluation plan
 For all details concerning the overall challenge design, tasks, scoring metrics, datasets, rules, and data formats, please consult the latest version of the official evaluation plan:
 
+* [Third DIHARD Challenge Evaluation Plan (version 1.1)](docs/third_dihard_eval_plan_v1.1.pdf) **UPDATED July 13th, 2020**
 * [Third DIHARD Challenge Evaluation Plan (version 1.0)](docs/third_dihard_eval_plan_v1.0.pdf)
 
 
 # Workshop
-The results of the challenge will be presented at a post-evaluation workshop,
-to be collocated with [Interspeech 2020](http://www.interspeech2020.org/) in
-Shanghai, China on **October 25th, 2020**. All participants are invited to
-submit 2 page extended abstracts describing their submissions and results on
-the DIHARD III development and evaluation sets. Provisions will be made for
-remote participation to accommodate those unable to travel to Shanghai due to
-COVID-19 related disruptions. For additional details, please see the
+The results of the challenge will be presented at a dedicated post-evaluation
+workshop, to be held on January 23rd, 2021. Due to continued COVID-19 related
+disruption, this workshop will be entirely virtual. For additional details,
+please see the
 [workshop website](https://dihardchallenge.github.io/dihard3workshop/).
 
 
-# Schedule
+# Planned schedule
 
-| **Milestone**                      |  **Date**             |
-| ---------------------------------- | --------------------- |
-| **development set release**        |  July 13th, 2020       |
-| **evaluation set release**         |  August 10th, 2020      |
-| **evaluation server opens**        |  August 10th, 2020      |
-| **evaluation period ends**         |  October 5th, 2020    |
-| **abstract submission deadline**   |  October 5th, 2020    |
-| **registration deadline**          |  October 12th, 2020    |
-| **workshop**                       |  October 25th, 2020 |
-| **system descriptions due**        |  November 20th, 2020   |
-
-While we will strive to meet the above milestones, continued COVID-19
-impacts may require one or more milestones to be delayed.  Should this
-happen, an announcement will be made to the mailing list and the schedule
-adjusted online.  We thank you for your understanding in these trying times.
+| **Milestone**                      |  **Date**               |
+| ---------------------------------- | ----------------------- |
+| **development set release**        |  mid-August, 2020       |
+| **evaluation set release**         |  mid-August, 2020       |
+| **evaluation server opens**        |  early September, 2020  |
+| **evaluation period ends**         |  December 7th, 2020     |
+| **abstract submission deadline**   |  December 21st, 2020    |
+| **registration deadline**          |  October 12th, 2020     |
+| **system descriptions due**        |  January 8th, 2021      |
+| **workshop**                       |  January 23rd, 2021     |
 
 
 # Acknowledgments

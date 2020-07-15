@@ -19,7 +19,7 @@ classes: wide
   to understand the approach and data/computational requirements. System
   descriptions should adhere to the format described in Appendix F of the
   [evaluation plan](index.html#plan).
-* The deadline for submitting system descriptions is **November 20th, 2020,
-  midnight Anywhere on Earth**.
+* The deadline for submitting system descriptions is **January 8th, 2021
+  (midnight Anywhere on Earth**).
 * Instructions for submitting descriptions will be posted here at the
   conclusion of the evaluation.
