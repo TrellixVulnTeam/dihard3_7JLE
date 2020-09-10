@@ -50,9 +50,9 @@ please see the
 
 | **Milestone**                      |  **Date**               |
 | ---------------------------------- | ----------------------- |
-| **development set release**        |  mid-August, 2020       |
-| **evaluation set release**         |  mid-August, 2020       |
-| **evaluation server opens**        |  early September, 2020  |
+| **development set release**        |  mid-September, 2020       |
+| **evaluation set release**         |  mid-September, 2020       |
+| **evaluation server opens**        |  mid-September, 2020  |
 | **evaluation period ends**         |  December 7th, 2020     |
 | **abstract submission deadline**   |  December 21st, 2020    |
 | **system descriptions due**        |  January 8th, 2021      |
