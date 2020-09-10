@@ -77,6 +77,8 @@ defaults:
       sidebar:
         nav: "sbar"
 
+# Metadata.
+repository: "dihardchallenge/dihard3"
 
 # Plugins
 plugins:
