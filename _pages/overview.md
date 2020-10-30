@@ -52,8 +52,8 @@ please see the
 | ---------------------------------- | ----------------------- |
 | **development set release**        |  mid-September, 2020       |
 | **evaluation set release**         |  mid-September, 2020       |
-| **evaluation server opens**        |  mid-September, 2020  |
-| **evaluation period ends**         |  December 7th, 2020     |
+| **evaluation server opens**        |  October 30th, 2020  |
+| **evaluation period ends**         |  December 21st, 2020     |
 | **abstract submission deadline**   |  December 21st, 2020    |
 | **system descriptions due**        |  January 8th, 2021      |
 | **workshop**                       |  January 23rd, 2021     |
