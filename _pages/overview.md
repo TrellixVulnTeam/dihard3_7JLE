@@ -34,7 +34,8 @@ any baselines are provided free of charge.
 # <a name="plan"></a>Evaluation plan
 For all details concerning the overall challenge design, tasks, scoring metrics, datasets, rules, and data formats, please consult the latest version of the official evaluation plan:
 
-* [Third DIHARD Challenge Evaluation Plan (version 1.1)](docs/third_dihard_eval_plan_v1.1.pdf) **UPDATED July 13th, 2020**
+* [Third DIHARD Challenge Evaluation Plan (version 1.2)](docs/third_dihard_eval_plan_v1.2.pdf) **UPDATED October 30th, 2020**
+* [Third DIHARD Challenge Evaluation Plan (version 1.1)](docs/third_dihard_eval_plan_v1.1.pdf)
 * [Third DIHARD Challenge Evaluation Plan (version 1.0)](docs/third_dihard_eval_plan_v1.0.pdf)
 
 
@@ -50,8 +51,8 @@ please see the
 
 | **Milestone**                      |  **Date**               |
 | ---------------------------------- | ----------------------- |
-| **development set release**        |  mid-September, 2020       |
-| **evaluation set release**         |  mid-September, 2020       |
+| **development set release**        |  September 21st, 2020       |
+| **evaluation set release**         |  September 21st, 2020       |
 | **evaluation server opens**        |  October 30th, 2020  |
 | **evaluation period ends**         |  December 21st, 2020     |
 | **abstract submission deadline**   |  December 21st, 2020    |
