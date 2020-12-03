@@ -64,8 +64,7 @@ please see the
 
 We would like to thank [NIST](https://www.nist.gov/) for hosting DIHARD III
 through the [OpenSAT evaluation series](https://www.nist.gov/itl/iad/mig/opensat). All evaluation activities (registration, system submission, scoring,
-and leaderboard display) will be conducted using NIST maintained
-web-interfaces.
+and leaderboard display) will be conducted using NIST maintained web-interfaces.
 
 
 # Sponsors
