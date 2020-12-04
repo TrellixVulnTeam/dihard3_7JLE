@@ -52,7 +52,7 @@ classes: wide
   upload the archive containing your system output. To do this, locate your
   submission on the **Submissions** page.  As the entries on this page are
   displayed in ascending order of submission date, it will be at the very
-  bottom. Fidn your submission and:
+  bottom. Find your submission and:
   * Click **Upload**.
   * Select the output you want to upload.
   * Click **Submit**.
@@ -75,9 +75,11 @@ classes: wide
 
 * The leaderboards contain the most recent primary system submission by each
   team, ranked in ascending order by DER. 
-* We are still working with NIST to enable leaderboard display. Additional
-  details regarding viewing and interpreting the leaderboards will be
-  displayed in this section once leaderboards are enabled.
+* Leaderboards are maintained by NIST at:  
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://sat.nist.gov/dihard3#tab_leaderboard](https://sat.nist.gov/dihard3#tab_leaderboard)
+* For more information, see the [results page](results.html).
+
 
 
 ## Rules
