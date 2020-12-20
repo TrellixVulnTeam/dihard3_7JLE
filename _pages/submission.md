@@ -87,6 +87,8 @@ classes: wide
 * Each team is limited to 50 total submissions to each track.
 * Submissions that fail during either the validation or scoring phase (status
   begins with **FAIL**) do not count against this limit.
+* The deadline for submitting system outputs is **December 28th, 2020
+  (midnight Anywhere on Earth**).
 
 
 
@@ -97,7 +99,7 @@ classes: wide
   to understand the approach and data/computational requirements. System
   descriptions should adhere to the format described in Appendix F of the
   [evaluation plan](index.html#plan).
-* The deadline for submitting system descriptions is **January 8th, 2021
+* The deadline for submitting system descriptions is **January 31st, 2021
   (midnight Anywhere on Earth**).
 * Instructions for submitting descriptions will be posted here at the
   conclusion of the evaluation.

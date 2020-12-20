@@ -54,10 +54,10 @@ please see the
 | **development set release**        |  September 21st, 2020       |
 | **evaluation set release**         |  September 21st, 2020       |
 | **evaluation server opens**        |  October 30th, 2020  |
-| **evaluation period ends**         |  December 21st, 2020     |
-| **abstract submission deadline**   |  December 21st, 2020    |
-| **system descriptions due**        |  January 8th, 2021      |
+| **evaluation period ends**         |  ~~December 21st, 2020~~ <span style="color:red">(December 28th, 2020)</span>     |
+| **abstract submission deadline**   |  ~~December 21st, 2020~~ <span style="color:red">(December 28th, 2020)</span>   |
 | **workshop**                       |  January 23rd, 2021     |
+| **system descriptions due**        |  ~~January 8th, 2021~~  <span style="color:red">(January 31st, 2021)</span>       |
 
 
 # Acknowledgments
