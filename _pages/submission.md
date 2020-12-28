@@ -87,7 +87,7 @@ classes: wide
 * Each team is limited to 50 total submissions to each track.
 * Submissions that fail during either the validation or scoring phase (status
   begins with **FAIL**) do not count against this limit.
-* The deadline for submitting system outputs is **December 28th, 2020
+* The deadline for submitting system outputs is **December 30th, 2020
   (midnight Anywhere on Earth**).
 
 
