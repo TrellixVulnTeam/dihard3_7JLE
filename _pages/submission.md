@@ -94,12 +94,41 @@ classes: wide
 
 # <a name="system"></a>System description submission
 
+
 * At the end of the evaluation, all participating teams must submit a full
   description of their system with sufficient detail for a fellow researcher
-  to understand the approach and data/computational requirements. System
-  descriptions should adhere to the format described in Appendix F of the
-  [evaluation plan](index.html#plan).
+  to understand the approach and data/computational requirements.
 * The deadline for submitting system descriptions is **January 31st, 2021
   (midnight Anywhere on Earth**).
-* Instructions for submitting descriptions will be posted here at the
-  conclusion of the evaluation.
+
+
+## Formatting your system description
+
+* System descriptions should adhere to the format described in Appendix F of
+  the [evaluation plan](index.html#plan).
+* Please remember to use the [IEEE Conference proceedings templates](https://www.ieee.org/conferences/publishing/templates.html) and include all sections
+  listed in Appendix F of the evaluation plan.
+* Teams participating in both tracks should prepare a **SINGLE** document that
+  describes their submissions to both tracks. There is no need to prepare
+  separate documents for each track.
+
+
+## Submitting your system description
+
+* To submit your system description, log into [your participant account](https://sat.nist.gov/users/sign_in) and select **Dashboard** from the top right of the page.
+* Navigate to the **System Description** panel, which contains all tasks you
+  are registered for. If you belong to a single team, you should see that
+  teamname displayed at the top of the task list, followed by all tasks that
+  team is registered for. If you belong to multiple teams, there will be a
+  separate list of tasks for each team.
+* Click on the task for the team you are submitting for.
+* This will open the **System Description** page.
+  * Click **Choose File**.
+  * Select the PDF of the system description that you wish to upload.
+  * Click **Upload**.
+* The message "System description was 
+  successfully uploaded" should now be displayed at the top of the page.
+* If necessary, you can update your system description by repeating this
+  process and uploading a new PDF.
+* For teams that participated in both tracks, please upload your description
+  twice  --  one for track 1 and once for track 2.

@@ -51,3 +51,16 @@ classes: wide
 
   > Please see the [results submission](submission.html#results) instructions.
 
+
+* **How can I upload my system description?**
+
+  > Please see the [system description](submission.html#system) instructions.
+
+
+* **My team participated in both tracks. Should we prepare different system
+  descriptions for each track?**
+
+  > Please prepare a **SINGLE** document that details your system and its
+  > results on both tracks. You will need to upload this twice (once for
+  > track 1 and once for track 2), but there is no need to prepare separate
+  > documents.
