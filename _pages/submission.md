@@ -98,8 +98,8 @@ classes: wide
 * At the end of the evaluation, all participating teams must submit a full
   description of their system with sufficient detail for a fellow researcher
   to understand the approach and data/computational requirements.
-* The deadline for submitting system descriptions is **January 31st, 2021
-  (midnight Anywhere on Earth**).
+* The deadline for submitting system descriptions is [**January 31st, 2021
+  (midnight Anywhere on Earth**)](https://www.timeanddate.com/countdown/generic?iso=20210131T235959&p0=3399&msg=DIHARD+III+System+Descriptions+Due&font=sanserif).
 
 
 ## Formatting your system description
