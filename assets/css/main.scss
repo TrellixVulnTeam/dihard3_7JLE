@@ -149,3 +149,13 @@ $sidebar-background-color: #ecf0f1;
     border-radius: 4px;
 }
 
+
+/* Datatable. */
+.bootstrap-table {
+    td, th {
+	white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden;
+    }
+    table-layout: fixed;
+}
