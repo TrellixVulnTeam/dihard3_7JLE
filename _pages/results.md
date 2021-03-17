@@ -53,7 +53,7 @@ results are also available from the [challenge paper](https://arxiv.org/abs/2012
       <th class="sep-left-cell text-center" data-field="team"  data-sortable="true" id="team">Team</th>
       <th class="sep-left-cell text-center" data-field="num_entries" data-sortable="true"># Entries</th>
       <th class="sep-left-cell text-center" data-field="submission_id" data-sortable="true" data-value-type="int">Submission URI</th>
-      <th class="sep-left-cell text-center" data-field="date" data-sortable="false">Date</th>
+      <th class="sep-left-cell text-center" data-field="date" data-sortable="false">&emsp;&emsp;&emsp;&emsp; Date &emsp;&emsp;&emsp;&emsp;</th>
       <th class="sep-left-cell text-center" data-field="description" data-sortable="false" data-value-type="url">Description</th>
       <th class="sep-left-cell text-center" data-field="workshop" data-sortable="false" data-value-type="url">Workshop</th>
       <th class="sep-left-cell text-center" data-chartable="true" data-field="der_core" data-sortable="true" data-value-type="float2">DER<small class="hidden"> (Core set)</small></th>
