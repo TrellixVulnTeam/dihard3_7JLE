@@ -23,6 +23,9 @@ For each submission, the following fields are displayed:
 - **DER (full)**  --  diarization error rate (in percent) of submission on the full evaluation set
 - **JER (full)**  --  Jaccard error rate (in percent) of submission on the full evaluation set
 
+Baseline results for each track are provided under the team name of **DIHARD** and indicated by a blue horizontal line in the bar plot. These
+results are also available from the [challenge paper](https://arxiv.org/abs/2012.01477) and [baseline github repo](https://github.com/dihardchallenge/dihard3_baseline).
+
 
 ## Track 1
 
@@ -61,7 +64,7 @@ For each submission, the following fields are displayed:
   </thead>
   <tbody>
     {% for row in site.data.track1_scores %}
-    {% if row["team_name"] == "Team_00115" %}
+    {% if row["team_name"] == "DIHARD" %}
     <tr class="info" data-hline="true">
     {% else %}
     <tr>
@@ -121,7 +124,7 @@ For each submission, the following fields are displayed:
   </thead>
   <tbody>
     {% for row in site.data.track2_scores %}
-    {% if row["team_name"] == "Team_00115" %}
+    {% if row["team_name"] == "DIHARD" %}
     <tr class="info" data-hline="true">
     {% else %}
     <tr>
