@@ -4,6 +4,13 @@ permalink: /faq.html
 classes: wide
 ---
 
+* **How can I obtain the data?**
+
+  > Unfortunately, DIHARD III has concluded and we are no longer able to distribute
+  > the data under the evaluation license. Both the development and evaluation sets
+  > have been made available to [LDC](https://www.ldc.upenn.edu/) for publication in their General Catalog, but
+  > we do not have a timeframe. For more details, please check with LDC at [ldc@ldc.upenn.edu](ldc@ldc.upenn.edu).
+
 * **Must I participate in all tracks in the challenge?**
 
   > No. All participants **MUST** submit to track 1, but participation in
