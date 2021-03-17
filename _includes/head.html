@@ -13,6 +13,14 @@
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
+<!-- Using js-datatable -->
+{% if page.datatable == true %}
+  <link rel="stylesheet" href="assets/bootstrap-3.3.7/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/js-datatable-1.1.0/css.min/bootstrap-table.min.css">
+  <link rel="stylesheet" href="assets/js-datatable-1.1.0/css.min/datatable.min.css">
+{% endif %}
+
+
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
@@ -38,10 +46,4 @@
   {% endfor %}
 {% endif %}
 
-<!-- Using js-datatable -->
-{% if page.datatable == true %}
-  <link rel="stylesheet" href="assets/bootstrap-3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="assets/js-datatable-1.1.0/css.min/bootstrap-table.min.css">
-  <link rel="stylesheet" href="assets/js-datatable-1.1.0/css.min/datatable.min.css">
-{% endif %}
-    
+
